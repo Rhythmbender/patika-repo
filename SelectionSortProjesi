@@ -8,19 +8,19 @@ Cevap:
 [2,16,18,22,27,6]
 [2,6,16,18,22,27]
 
-<hr>
+</hr>
 
 Big-O gösterimini yazınız.
 
 Cevap: O(n^2)
 
-<hr>
+</hr>
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Cevap: Dizinin sıralanmış hâli; [2,6,16,18,22,27] ve 18 sayısı dizide aradığımız sayının tam ortasında olduğu için "Avarage Case" kapsamına girer.
 
-<hr>
+</hr>
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
