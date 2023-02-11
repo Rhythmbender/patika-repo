@@ -1,0 +1,19 @@
+body {
+    background-color: #E9ECEF;
+}
+
+h2 {
+    color: #16003B;
+}
+
+h1 {
+    color: #6F38C5;
+}
+
+.card-item {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+
+}
